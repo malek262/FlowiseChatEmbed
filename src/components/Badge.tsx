@@ -8,7 +8,7 @@ type Props = {
   badgeBackgroundColor?: string;
 };
 
-const defaultTextColor = '#f7f7f7';
+const defaultTextColor = '#303235';
 
 export const Badge = (props: Props) => {
   let liteBadge: HTMLAnchorElement | undefined;
