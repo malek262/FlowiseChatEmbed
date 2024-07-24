@@ -91,7 +91,7 @@ pre {
 .bubble1,
 .bubble2,
 .bubble3 {
-  background-color: '#ff4136';
+  background-color: #ff4136;
   opacity: 0.5;
 }
 
@@ -203,11 +203,10 @@ textarea {
 }
 
 .chatbot-host-bubble > .bubble-typing {
-  background-color: '#2a2a2a';
+  background-color: #2a2a2a;
   border: var(--chatbot-host-bubble-border);
   border-radius: 6px;
 }
-
 .chatbot-host-bubble img,
 .chatbot-host-bubble iframe,
 .chatbot-host-bubble video {
